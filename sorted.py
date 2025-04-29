@@ -1,3 +1,4 @@
+# filepath: /wordsort/wordsort/sorted.py
 import sqlite3
 
 # Function to initialize the database
